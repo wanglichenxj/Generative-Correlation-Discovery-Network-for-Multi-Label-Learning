@@ -1,8 +1,9 @@
 # Generative Correlation Discovery Network for Multi-Label Learning (GCDN)
 This repository contains code for our IEEE International Conference on Data Mining (ICDM) 2019 paper (Regular paper): [Generative Correlation Discovery Network for Multi-Label Learning](https://github.com/wanglichenxj/Generative-Correlation-Discovery-Network-for-Multi-Label-Learning/blob/master/presentation/ICDM19_MultiLabel.pdf) (GCDN). 
 
-
-
+<div align="center">
+    <img src="presentation/concept_1.png", width="450">
+</div>
 
 
 The goal of Multi-label learning is to predict multiple labels of each single instance. This is a challenging problem since the training data is limited, long-tail label distribution, and complicated label correlations. Generally, more training samples and label correlation knowledge would benefit the learning performance. However, it is difficult to obtain large-scale well-labeled datasets, and building such a label correlation map requires sophisticated semantic knowledge. To this end, we propose an end-to-end Generative Correlation Discovery Network (GCDN) method for multi-label learning in this paper. GCDN captures the existing data distribution, and synthesizes diverse data to enlarge the diversity of the training features; meanwhile, it also learns the label correlations based on a specifically-designed, simple but effective correlation discovery network to automatically discover the label correlations and considerately improve the label prediction accuracy. Extensive experiments on several benchmarks are provided to demonstrate the effectiveness, efficiency, and high accuracy of our approach.
