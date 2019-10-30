@@ -11,7 +11,7 @@ The goal of Multi-label learning is to predict multiple labels of each single in
 
 ### Our model
 <div align="center">
-    <img src="presentation/concept_1.png", width="framework_1.png">
+    <img src="presentation/framework_1.png", width="1000">
 </div>
 
 To this end, we propose an end-to-end Generative Correlation Discovery Network (GCDN) method for multi-label learning in this paper. GCDN captures the existing data distribution, and synthesizes diverse data to enlarge the diversity of the training features; meanwhile, it also learns the label correlations based on a specifically-designed, simple but effective correlation discovery network to automatically discover the label correlations and considerately improve the label prediction accuracy. Extensive experiments on several benchmarks are provided to demonstrate the effectiveness, efficiency, and high accuracy of our approach.
@@ -19,17 +19,17 @@ To this end, we propose an end-to-end Generative Correlation Discovery Network (
 ### Experiments
 
 <div align="center">
-    <img src="presentation/concept_1.png", width="framework_1.png">
+    <img src="presentation/table_1.png", width="450">
 </div>
 
 
 <div align="center">
-    <img src="presentation/concept_1.png", width="framework_1.png">
+    <img src="presentation/table_2.png", width="450">
 </div>
 
 
 <div align="center">
-    <img src="presentation/concept_1.png", width="framework_1.png">
+    <img src="presentation/table_3.png", width="450">
 </div>
 
 
