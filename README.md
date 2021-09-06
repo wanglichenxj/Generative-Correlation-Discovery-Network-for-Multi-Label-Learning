@@ -41,11 +41,9 @@ Please cite our paper if you like or use our work for your research, thank you v
 @inproceedings{GCDN_Lichen,
   title={Generative Correlation Discovery Network for Multi-Label Learning},
   author={Wang, Lichen and Ding, Zhengming and Han, Seungju and Han, Jae-Joon and Choi, Changkyu and Fu, Yun},
-  booktitle={Proceedings of IEEE International Conference on Data Mining},
+  booktitle={Proceedings of the IEEE International Conference on Data Mining},
+  pages={588--597},
   year={2019}
+  organization={IEEE}
 }
 ```
-
-
-
-
